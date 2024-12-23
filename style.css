@@ -1,0 +1,51 @@
+.header nav {
+  border: 5px solid red;
+  border-radius: 25px;
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: space-evenly;
+}
+.section1 {
+  border: 5px solid green;
+  font-family: "Playwrite TZ Guides", cursive;
+  border-radius: 25px;
+  margin-bottom: 10px;
+  padding-left: 25px;
+  padding-bottom: 5px;
+  background-color: rgba(183, 17, 17, 0.347);
+  border-style: dashed;
+}
+.section2 {
+  border: 5px solid blue;
+  border-radius: 25px;
+  margin-bottom: 10px;
+  padding-left: 10px;
+  background-color: rgba(0, 128, 0, 0.296);
+  border-style: ridge;
+}
+.footer {
+  border: 1px solid black;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 0, 0.464);
+  padding-left: 10px;
+  padding-bottom: 10px;
+  border-radius: 10px;
+}
+.header a {
+  color: green;
+  font-size: 25px;
+  text-decoration: none;
+}
+.name,
+.email,
+.message {
+  width: 250px;
+  display: flex;
+  justify-content: space-around;
+}
+.message1 {
+  margin-right: 7px;
+}
+.contact {
+  padding-left: 25px;
+}
